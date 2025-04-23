@@ -44,7 +44,8 @@ $conn->close();
     
     body {
       background-image: url('https://uniathenaprods3.uniathena.com/s3fs-public/2024-05/Peer-to-Peer-Learning-Platforms.jpg');
-     
+      background-size: cover;
+      background-position:bottom right ;
       background-attachment: fixed;
     }
   </style>
